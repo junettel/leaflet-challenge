@@ -1,5 +1,5 @@
 # leaflet-challenge
-Leaflet Homework - Visualizing Data with Leaflet
+Visualizing Data with Leaflet
 
 # Deployment Link
 **[https://junettel.github.io/leaflet-challenge/Leaflet-Step-1/](https://junettel.github.io/leaflet-challenge/Leaflet-Step-1/)**
